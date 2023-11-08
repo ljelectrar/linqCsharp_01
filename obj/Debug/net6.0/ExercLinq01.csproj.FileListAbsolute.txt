@@ -1,0 +1,14 @@
+C:\Users\ljele\OneDrive\Documentos\2 - Student\2 - Udemy\CSharp\Projetos\Desafios\ExercLinq01\ExercLinq01\bin\Debug\net6.0\ExercLinq01.exe
+C:\Users\ljele\OneDrive\Documentos\2 - Student\2 - Udemy\CSharp\Projetos\Desafios\ExercLinq01\ExercLinq01\bin\Debug\net6.0\ExercLinq01.deps.json
+C:\Users\ljele\OneDrive\Documentos\2 - Student\2 - Udemy\CSharp\Projetos\Desafios\ExercLinq01\ExercLinq01\bin\Debug\net6.0\ExercLinq01.runtimeconfig.json
+C:\Users\ljele\OneDrive\Documentos\2 - Student\2 - Udemy\CSharp\Projetos\Desafios\ExercLinq01\ExercLinq01\bin\Debug\net6.0\ExercLinq01.dll
+C:\Users\ljele\OneDrive\Documentos\2 - Student\2 - Udemy\CSharp\Projetos\Desafios\ExercLinq01\ExercLinq01\bin\Debug\net6.0\ExercLinq01.pdb
+C:\Users\ljele\OneDrive\Documentos\2 - Student\2 - Udemy\CSharp\Projetos\Desafios\ExercLinq01\ExercLinq01\obj\Debug\net6.0\ExercLinq01.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ljele\OneDrive\Documentos\2 - Student\2 - Udemy\CSharp\Projetos\Desafios\ExercLinq01\ExercLinq01\obj\Debug\net6.0\ExercLinq01.AssemblyInfoInputs.cache
+C:\Users\ljele\OneDrive\Documentos\2 - Student\2 - Udemy\CSharp\Projetos\Desafios\ExercLinq01\ExercLinq01\obj\Debug\net6.0\ExercLinq01.AssemblyInfo.cs
+C:\Users\ljele\OneDrive\Documentos\2 - Student\2 - Udemy\CSharp\Projetos\Desafios\ExercLinq01\ExercLinq01\obj\Debug\net6.0\ExercLinq01.csproj.CoreCompileInputs.cache
+C:\Users\ljele\OneDrive\Documentos\2 - Student\2 - Udemy\CSharp\Projetos\Desafios\ExercLinq01\ExercLinq01\obj\Debug\net6.0\ExercLinq01.dll
+C:\Users\ljele\OneDrive\Documentos\2 - Student\2 - Udemy\CSharp\Projetos\Desafios\ExercLinq01\ExercLinq01\obj\Debug\net6.0\refint\ExercLinq01.dll
+C:\Users\ljele\OneDrive\Documentos\2 - Student\2 - Udemy\CSharp\Projetos\Desafios\ExercLinq01\ExercLinq01\obj\Debug\net6.0\ExercLinq01.pdb
+C:\Users\ljele\OneDrive\Documentos\2 - Student\2 - Udemy\CSharp\Projetos\Desafios\ExercLinq01\ExercLinq01\obj\Debug\net6.0\ExercLinq01.genruntimeconfig.cache
+C:\Users\ljele\OneDrive\Documentos\2 - Student\2 - Udemy\CSharp\Projetos\Desafios\ExercLinq01\ExercLinq01\obj\Debug\net6.0\ref\ExercLinq01.dll
